@@ -14,7 +14,7 @@
   <h3 align="center">An Awwwards Winning Website</h3>
 
    <div align="center">
-     An Awwwards Style Website inspired by **[Zentry](https://zentry.com/)** . Built using - React.js, Tailwind CSS , and GSAP .
+     An Awwwards Style Website inspired by <a href='https://zentry.com/' >Zentry</a> . Built using - React.js, Tailwind CSS , and GSAP .
     </div>
 </div>
 
