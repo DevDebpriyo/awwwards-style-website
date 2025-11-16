@@ -25,11 +25,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## ⚠️ Disclaimer
-
-All design credits go to **[Zentry](https://zentry.com/)**. This project is inspired from **[Zentry](https://zentry.com/)** and is not intended for commercial use or public deployment.
-
-
 ## <a name="introduction">🤖 Introduction</a>
 
 A captivating Awwwards style website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
@@ -90,4 +85,10 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+## ⚠️ Disclaimer
+
+All design credits go to **[Zentry](https://zentry.com/)**. This project is inspired from **[Zentry](https://zentry.com/)** and is not intended for commercial use or public deployment.
+
+
 
