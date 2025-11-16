@@ -88,7 +88,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## ⚠️ Disclaimer
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is inspired from **[Zentry](https://zentry.com/)** and is not intended for commercial use or public deployment.
+All design credits go to **[Zentry](https://zentry.com/)**. This project is inspired from **[Zentry](https://zentry.com/)** and is not intended for commercial use .
 
 
 
